@@ -1,0 +1,1145 @@
+[
+    {
+        "word": "웨이퍼",
+        "english": "Wafer",
+        "meaning": "반도체 칩을 만드는 기본 재료로, 실리콘 등의 단결정 소재로 만들어진 얇은 원판 형태의 기판"
+    },
+    {
+        "word": "산화",
+        "english": "Oxidation",
+        "meaning": "실리콘 웨이퍼 표면에 실리콘 산화막(SiO2)을 형성하는 공정으로, 주로 고온에서 산소나 수증기와 반응시켜 이루어진다"
+    },
+    {
+        "word": "포토리소그래피",
+        "english": "Photolithography",
+        "meaning": "빛을 이용해 웨이퍼에 회로 패턴을 형성하는 공정으로, 포토레지스트라는 감광성 물질을 사용한다"
+    },
+    {
+        "word": "에칭",
+        "english": "Etching",
+        "meaning": "웨이퍼 표면에 형성된 특정 물질을 선택적으로 제거하는 공정으로, 화학적 또는 물리적 방법을 사용한다"
+    },
+    {
+        "word": "증착",
+        "english": "Deposition",
+        "meaning": "웨이퍼 표면에 얇은 막을 형성하는 공정으로, 화학 기상 증착(CVD), 물리적 기상 증착(PVD) 등의 방법이 있다"
+    },
+    {
+        "word": "이온 주입",
+        "english": "Ion Implantation",
+        "meaning": "웨이퍼에 불순물 이온을 주입하여 전기적 특성을 조절하는 공정으로, 도핑이라고도 한다"
+    },
+    {
+        "word": "확산",
+        "english": "Diffusion",
+        "meaning": "고온에서 불순물 원소를 웨이퍼 내부로 확산시켜 도핑하는 공정"
+    },
+    {
+        "word": "금속화",
+        "english": "Metallization",
+        "meaning": "웨이퍼 표면에 금속 배선을 형성하여 전기적 연결을 하는 공정"
+    },
+    {
+        "word": "평탄화",
+        "english": "Planarization",
+        "meaning": "웨이퍼 표면을 평평하게 만드는 공정으로, 화학적 기계적 연마(CMP) 방법이 주로 사용된다"
+    },
+    {
+        "word": "패키징",
+        "english": "Packaging",
+        "meaning": "웨이퍼에서 분리된 칩을 보호하고 외부와 연결할 수 있도록 패키지로 만드는 공정"
+    },
+    {
+        "word": "CMP",
+        "english": "Chemical Mechanical Polishing",
+        "meaning": "화학적 및 기계적 방법을 결합하여 웨이퍼 표면을 평탄화하는 공정"
+    },
+    {
+        "word": "레시피",
+        "english": "Recipe",
+        "meaning": "반도체 제조 공정에서 특정한 조건과 절차를 정의한 일련의 지침. 웨이퍼에 특정한 물질을 증착하거나 에칭하는 과정에서 필요한 온도, 시간, 압력, 화학 물질의 농도 등을 포함."
+    },
+    {
+        "word": "수율",
+        "english": "Yield",
+        "meaning": "생산된 웨이퍼나 칩 중에서 정상적으로 작동하는 제품의 비율. 수율을 높이는 방안으로는 공정 최적화, 품질 관리, 장비 유지보수, 결함 분석, 자동화 및 모니터링, 교육 및 훈련, 디자인 개선 등이 있음."
+    },
+    {
+        "word": "국소배기장치",
+        "english": "Local Exhaust Ventilation (LEV)",
+        "meaning": "반도체 제조 공정에서 발생하는 유해 물질이나 오염 물질을 효과적으로 제거하기 위해 설계된 장치. 특정 작업 공간이나 공정에서 발생하는 유해한 가스, 연기, 먼지 등을 직접적으로 흡입하여 외부로 배출."
+    },
+    {
+        "word": "ESC",
+        "english": "Electrostatic Chuck (ESC)",
+        "meaning": "반도체 제조 공정에서 웨이퍼를 고정하는 데 사용되는 장치. 전기적인 힘을 이용하여 웨이퍼를 안정적으로 고정하고, 공정 중에 웨이퍼가 움직이지 않도록 함."
+    },
+    {
+        "word": "칠러",
+        "english": "Chiller",
+        "meaning": "반도체 제조 공정에서 사용되는 냉각 장치로, 공정 장비나 환경을 적절한 온도로 유지하기 위해 사용됨. 온도 조절, 냉각수 순환, 에너지 효율성 등의 기능을 가짐."
+    },
+    {
+        "word": "스크러버",
+        "english": "Scrubber",
+        "meaning": "반도체 제조 공정에서 가스나 공기 중의 오염 물질을 제거하는 장치. 화학 물질, 먼지, 유해 가스 등을 효과적으로 제거하여 작업 환경을 안전하게 유지하고, 공정의 품질을 향상시킴."
+    },
+    {
+        "word": "O-ring",
+        "english": "O-ring",
+        "meaning": "원형의 고무 또는 합성 물질로 만들어진 링 형태의 밀봉 장치. 주로 두 개의 부품 사이의 기밀성을 유지하기 위해 사용되며, 액체나 가스의 누출을 방지."
+    },
+    {
+        "word": "Gasket",
+        "english": "Gasket",
+        "meaning": "두 개의 표면 사이에 위치하여 기밀성을 유지하고, 압력이나 온도 변화에 따른 누출을 방지하기 위해 사용되는 평면 밀봉 장치."
+    },
+    {
+        "word": "Leak",
+        "english": "Leak",
+        "meaning": "기체, 액체 또는 기타 물질이 의도하지 않은 경로를 통해 빠져나가는 현상. 반도체 제조 공정에서는 주로 가스나 화학 물질의 누출을 지칭."
+    },
+    {
+        "word": "Leak Check",
+        "english": "Leak Check",
+        "meaning": "시스템이나 장비에서 누출이 발생하는지 확인하기 위한 절차. 반도체 제조 공정에서는 제품의 품질을 유지하고, 안전한 작업 환경을 보장하기 위해 필수적."
+    },
+    {
+        "word": "D.I Water",
+        "english": "Deionized Water (D.I Water)",
+        "meaning": "이온 제거 과정을 통해 불순물이 제거된 물. 반도체 제조 공정에서 세척, 희석, 화학 물질 대체 등 다양한 용도로 사용됨."
+    },
+    {
+        "word": "초순수",
+        "english": "Ultra Pure Water (UPW)",
+        "meaning": "D.I Water보다 더 높은 순도를 가진 물로, 반도체 제조 공정에서 요구되는 극도로 낮은 불순물 농도를 가짐. 웨이퍼 세척, 화학 물질 희석, 공정 용수 등에 사용됨."
+    },
+    {
+        "word": "Stocker",
+        "english": "Stocker",
+        "meaning": "반도체 제조 공정에서 웨이퍼, 패키지, 또는 기타 반도체 소자를 저장하고 관리하는 자동화된 시스템. 주로 생산 라인과 물류 시스템 간의 연결 역할을 수행."
+    },
+    {
+        "word": "EMO 스위치",
+        "english": "Emergency Off Switch (EMO Switch)",
+        "meaning": "비상 상황에서 장비나 시스템의 전원을 즉시 차단하기 위해 설계된 스위치. 작업자의 안전을 보장하기 위해 필수적으로 설치됨."
+    },
+    {
+        "word": "FOUP",
+        "english": "Front Opening Unified Pod (FOUP)",
+        "meaning": "반도체 웨이퍼를 보호하고 운반하기 위해 설계된 밀폐형 용기. 주로 300mm 웨이퍼를 수용할 수 있도록 제작되며, 전면에 개방 가능한 구조를 가짐."
+    },
+    {
+        "word": "진공",
+        "english": "Vacuum",
+        "meaning": "반도체 제조 공정에서 특정 환경을 조성하기 위해 공기나 기타 기체가 거의 없는 상태. 진공 상태를 유지하여 공정의 품질과 효율성을 높임."
+    },
+    {
+        "word": "챔버",
+        "english": "Chamber",
+        "meaning": "반도체 제조 공정에서 특정 작업을 수행하기 위해 설계된 밀폐된 공간 또는 용기. 일반적으로 진공 상태를 유지할 수 있도록 설계되어 있음."
+    },
+    {
+        "word": "로드락",
+        "english": "Load Lock",
+        "meaning": "챔버와 외부 환경 사이의 경계 역할을 하는 장치로, 웨이퍼를 챔버에 로딩하거나 언로딩할 때 사용됨. 일반적으로 진공 상태를 유지할 수 있는 구조로 되어 있음."
+    },
+    {
+        "word": "ATM 로봇",
+        "english": "Automated Transfer Module (ATM Robot)",
+        "meaning": "반도체 제조 공정에서 웨이퍼를 자동으로 이동시키는 시스템. 클린룸 환경에서 사용되며, 웨이퍼를 다양한 공정 장비 간에 안전하고 효율적으로 이송."
+    },
+    {
+        "word": "Aligner",
+        "english": "Aligner",
+        "meaning": "반도체 제조 공정에서 웨이퍼와 포토마스크를 정밀하게 정렬하는 장비. 주로 리소그래피 공정에서 사용되며, 웨이퍼에 패턴을 정확하게 전사하기 위해 필수적인 장비."
+    },
+    {
+        "word": "OHT",
+        "english": "Overhead Transport (OHT)",
+        "meaning": "반도체 제조 공정에서 웨이퍼를 자동으로 이송하는 시스템. 주로 클린룸 환경에서 사용되며, 공정 장비 간에 웨이퍼를 이동시키는 역할을 함."
+    },
+    {
+        "word": "로드 포트",
+        "english": "Load Port",
+        "meaning": "반도체 제조 공정에서 웨이퍼를 장비에 로딩하거나 언로딩하는 데 사용되는 장치. 일반적으로 로드락 챔버와 연결되어 있음."
+    },
+    {
+        "word": "EFEM",
+        "english": "Equipment Front End Module (EFEM)",
+        "meaning": "반도체 제조 공정에서 장비의 전면에 위치하여 웨이퍼를 로딩하고 언로딩하는 기능을 수행하는 모듈. 장비와 OHT 시스템 간의 인터페이스 역할을 함."
+    },
+    {
+        "word": "Smock Room",
+        "english": "Smock Room",
+        "meaning": "클린룸에 들어가기 전에 작업자가 방진복을 착용하고 준비하는 공간. 오염을 최소화하기 위해 설계되어 있음."
+    },
+    {
+        "word": "방진복",
+        "english": "Cleanroom Garment",
+        "meaning": "클린룸 환경에서 작업자가 착용하는 특수 의류. 오염 물질의 유입을 방지하고 작업자의 신체에서 발생할 수 있는 오염을 차단."
+    },
+    {
+        "word": "에어샤워",
+        "english": "Air Shower",
+        "meaning": "클린룸에 들어가기 전에 작업자의 몸과 복장에서 오염 물질을 제거하기 위해 고속의 청정 공기를 분사하는 장치."
+    },
+    {
+        "word": "Fab",
+        "english": "Fabrication Facility (Fab)",
+        "meaning": "반도체 소자를 제조하는 시설. 웨이퍼를 가공하여 다양한 반도체 소자를 생산하는 곳."
+    },
+    {
+        "word": "서브 팹",
+        "english": "Sub Fab",
+        "meaning": "반도체 제조 공정에서 주 팹과 연결되어 있는 보조 시설. 주로 공정 지원 및 보조 작업을 수행하는 공간."
+    },
+    {
+        "word": "ALD",
+        "english": "Atomic Layer Deposition",
+        "meaning": "원자층 단위로 얇은 막을 형성하는 증착 방법으로, 정밀한 두께 제어가 가능하다"
+    },
+    {
+        "word": "CVD",
+        "english": "Chemical Vapor Deposition",
+        "meaning": "화학 반응을 통해 웨이퍼 표면에 막을 형성하는 증착 방법"
+    },
+    {
+        "word": "PVD",
+        "english": "Physical Vapor Deposition",
+        "meaning": "물리적 방법을 통해 웨이퍼 표면에 막을 형성하는 증착 방법"
+    },
+    {
+        "word": "RIE",
+        "english": "Reactive Ion Etching",
+        "meaning": "반응성 이온을 이용한 에칭 방법으로, 높은 방향성과 선택성을 가진다"
+    },
+    {
+        "word": "PECVD",
+        "english": "Plasma Enhanced Chemical Vapor Deposition",
+        "meaning": "플라즈마를 이용해 CVD 공정의 온도를 낮추고 반응성을 높이는 방법"
+    },
+    {
+        "word": "SOI",
+        "english": "Silicon On Insulator",
+        "meaning": "절연체 위에 실리콘 층을 형성하는 기술로, 전기적 절연을 향상시킨다"
+    },
+    {
+        "word": "FinFET",
+        "english": "Fin Field-Effect Transistor",
+        "meaning": "3차원 구조의 트랜지스터로, 채널이 핀 모양으로 형성되어 있다"
+    },
+    {
+        "word": "EUV",
+        "english": "Extreme Ultraviolet Lithography",
+        "meaning": "극자외선을 이용한 포토리소그래피 기술로, 더 미세한 회로 패턴을 형성할 수 있다"
+    },
+    {
+        "word": "Yield",
+        "english": "Yield",
+        "meaning": "반도체 제조 과정에서 생산된 양품의 비율로, 수율이라고도 한다"
+    },
+
+    {
+        "word": "ALD",
+        "english": "Atomic Layer Deposition",
+        "meaning": "원자층 단위로 매우 얇고 균일한 막을 형성하는 증착 기술로, 고품질의 박막을 필요로 하는 경우에 사용된다."
+    },
+    {
+        "word": "BEOL",
+        "english": "Back-End-Of-Line",
+        "meaning": "웨이퍼 공정의 후반부에 해당하는 단계로, 금속 배선과 패시베이션(보호막 형성) 등의 공정이 포함된다."
+    },
+    {
+        "word": "FEOL",
+        "english": "Front-End-Of-Line",
+        "meaning": "웨이퍼 공정의 전반부에 해당하는 단계로, 트랜지스터와 같은 기본 소자를 형성하는 공정이 포함된다."
+    },
+    {
+        "word": "MEMS",
+        "english": "Micro-Electro-Mechanical Systems",
+        "meaning": "기계적 요소, 센서, 액추에이터 등을 포함하는 초소형 시스템을 제조하는 기술."
+    },
+    {
+        "word": "TSV",
+        "english": "Through-Silicon Via",
+        "meaning": "웨이퍼를 수직으로 관통하는 비아를 형성하여 칩 간의 전기적 연결을 제공하는 기술로, 3D 집적에 사용된다."
+    },
+    {
+        "word": "Die",
+        "english": "Die",
+        "meaning": "웨이퍼에서 분리된 개별 칩으로, 패키징 과정을 통해 최종 제품으로 만들어진다."
+    },
+    {
+        "word": "Epitaxy",
+        "english": "Epitaxy",
+        "meaning": "웨이퍼 표면에 단결정 박막을 성장시키는 공정으로, 실리콘 에피택시 등이 있다."
+    },
+    {
+        "word": "Gate Oxide",
+        "english": "Gate Oxide",
+        "meaning": "트랜지스터의 게이트와 채널 사이에 위치하는 절연막으로, 주로 실리콘 산화막이 사용된다."
+    },
+    {
+        "word": "Interconnect",
+        "english": "Interconnect",
+        "meaning": "칩 내에서 다양한 소자들을 연결하는 금속 배선으로, 신호 전달과 전력 공급을 담당한다."
+    },
+    {
+        "word": "Passivation",
+        "english": "Passivation",
+        "meaning": "칩 표면에 보호막을 형성하여 외부 환경으로부터 소자를 보호하는 공정."
+    },
+    {
+        "word": "Photomask",
+        "english": "Photomask",
+        "meaning": "포토리소그래피 공정에서 빛을 선택적으로 차단하거나 통과시켜 웨이퍼에 패턴을 형성하는 데 사용되는 마스크."
+    },
+    {
+        "word": "Spin Coating",
+        "english": "Spin Coating",
+        "meaning": "웨이퍼 표면에 포토레지스트나 다른 액상 물질을 균일하게 도포하는 방법으로, 회전하는 웨이퍼 위에 액체를 떨어뜨려 얇은 막을 형성한다."
+    },
+    {
+        "word": "Stepper",
+        "english": "Stepper",
+        "meaning": "포토리소그래피 공정에서 마스크 패턴을 웨이퍼에 노광하는 장비로, 정밀한 정렬과 노광이 가능하다."
+    },
+    {
+        "word": "Thermal Oxidation",
+        "english": "Thermal Oxidation",
+        "meaning": "고온에서 실리콘 웨이퍼를 산소나 수증기와 반응시켜 실리콘 산화막을 형성하는 공정."
+    },
+    {
+        "word": "Via",
+        "english": "Via",
+        "meaning": "웨이퍼 내에서 서로 다른 금속 층 간의 전기적 연결을 제공하는 작은 구멍으로, 금속으로 채워진다."
+    },
+    {
+        "word": "Wafer Bonding",
+        "english": "Wafer Bonding",
+        "meaning": "두 개의 웨이퍼를 접합하여 하나의 구조로 만드는 공정으로, SOI 웨이퍼 제조 등에 사용된다."
+    },
+    {
+        "word": "X-Ray Lithography",
+        "english": "X-Ray Lithography",
+        "meaning": "X선을 이용한 리소그래피 기술로, EUV 리소그래피와 함께 미세 패턴 형성에 사용된다."
+    },
+    {
+        "word": "Yield Engineering",
+        "english": "Yield Engineering",
+        "meaning": "반도체 제조 과정에서 수율을 높이기 위한 다양한 기술과 방법을 연구하고 적용하는 분야."
+    },
+    {
+        "word": "Chemical Mechanical Planarization (CMP)",
+        "english": "Chemical Mechanical Planarization (CMP)",
+        "meaning": "화학적 및 기계적 방법을 결합하여 웨이퍼 표면을 평탄화하는 공정으로, 다층 금속 배선 형성 시 필수적이다."
+    },
+    {
+        "word": "Plasma Etching",
+        "english": "Plasma Etching",
+        "meaning": "플라즈마를 이용한 에칭 방법으로, 높은 방향성과 선택성을 가지며, 미세 패턴 형성 시 유용하다."
+    },
+    {
+        "word": "APC",
+        "english": "Advanced Process Control",
+        "meaning": "반도체 제조 과정에서 실시간으로 공정을 모니터링하고 제어하여 수율을 높이고 불량을 줄이는 기술."
+    },
+    {
+        "word": "BARC",
+        "english": "Bottom Anti-Reflective Coating",
+        "meaning": "포토리소그래피 공정에서 빛의 반사를 줄이기 위해 웨이퍼 표면에 도포하는 하부 반사 방지 코팅 물질."
+    },
+    {
+        "word": "CMP Slurry",
+        "english": "CMP Slurry",
+        "meaning": "화학적 기계적 연마(CMP) 공정에서 사용되는 연마제로, 연마 입자와 화학 물질의 혼합물로 구성된다."
+    },
+    {
+        "word": "Dielectric",
+        "english": "Dielectric",
+        "meaning": "전기적으로 절연된 물질로, 칩 내에서 전류의 흐름을 차단하는 데 사용된다. 예로는 실리콘 산화막(SiO2)과 실리콘 질화막(Si3N4)이 있다."
+    },
+    {
+        "word": "Dummy Gate",
+        "english": "Dummy Gate",
+        "meaning": "FinFET과 같은 3D 트랜지스터 구조에서 임시 게이트를 형성하는 공정으로, 최종 게이트 형성 전에 사용된다."
+    },
+    {
+        "word": "E-Beam Lithography",
+        "english": "E-Beam Lithography",
+        "meaning": "전자 빔을 이용한 리소그래피 기술로, 매우 높은 해상도와 정밀도를 제공하지만, 처리 속도가 느리다."
+    },
+    {
+        "word": "Epitaxial Growth",
+        "english": "Epitaxial Growth",
+        "meaning": "단결정 웨이퍼 표면에 단결정 박막을 성장시키는 공정으로, 실리콘 에피택시 등이 있다."
+    },
+    {
+        "word": "FDSOI",
+        "english": "Fully Depleted Silicon-On-Insulator",
+        "meaning": "SOI 기술의 일종으로, 채널 영역이 완전히 공핍된 상태로 동작하여 전기적 특성을 향상시킨다."
+    },
+    {
+        "word": "Hard Mask",
+        "english": "Hard Mask",
+        "meaning": "포토리소그래피 공정에서 포토레지스트 대신 사용되는 내구성 있는 마스크 물질로, 높은 선택성과 내구성을 제공한다."
+    },
+    {
+        "word": "ILD",
+        "english": "Inter-Layer Dielectric",
+        "meaning": "금속 배선 층 간에 위치하는 절연 물질로, 전기적 절연을 제공하며, 평탄화 공정을 통해 표면을 평평하게 만든다."
+    },
+    {
+        "word": "LDD",
+        "english": "Lightly Doped Drain",
+        "meaning": "트랜지스터의 드레인 영역에 낮은 농도로 불순물을 도핑하여 전기적 특성을 개선하는 기술."
+    },
+    {
+        "word": "Metrology",
+        "english": "Metrology",
+        "meaning": "반도체 제조 과정에서 치수, 두께, 형상 등을 측정하고 분석하는 기술로, 품질 관리에 필수적이다."
+    },
+    {
+        "word": "NIL",
+        "english": "Nanoimprint Lithography",
+        "meaning": "나노 임프린트 기술을 이용한 리소그래피 방법으로, 고해상도와 저비용을 특징으로 한다."
+    },
+    {
+        "word": "OPC",
+        "english": "Optical Proximity Correction",
+        "meaning": "포토리소그래피 공정에서 마스크 패턴을 보정하여 원하는 패턴을 정확하게 형성하는 기술."
+    },
+    {
+        "word": "PVD",
+        "english": "Physical Vapor Deposition",
+        "meaning": "물리적 방법을 통해 웨이퍼 표면에 박막을 형성하는 증착 기술로, 스퍼터링 등이 있다."
+    },
+    {
+        "word": "Rapid Thermal Processing",
+        "english": "Rapid Thermal Processing",
+        "meaning": "짧은 시간 동안 고온을 가하여 웨이퍼를 열처리하는 공정으로, 확산 및 활성화 공정에 사용된다."
+    },
+    {
+        "word": "Silicidation",
+        "english": "Silicidation",
+        "meaning": "금속과 실리콘을 반응시켜 실리사이드 층을 형성하는 공정으로, 접촉 저항을 줄이는 데 사용된다."
+    },
+    {
+        "word": "Stress Engineering",
+        "english": "Stress Engineering",
+        "meaning": "웨이퍼에 인위적인 스트레스를 가하여 전기적 특성을 개선하는 기술로, 채널 이동도 향상에 기여한다."
+    },
+    {
+        "word": "Trench",
+        "english": "Trench",
+        "meaning": "웨이퍼 표면에 깊은 홈을 형성하는 공정으로, 소자 분리, 커패시터 형성 등에 사용된다."
+    },
+    {
+        "word": "ULSI",
+        "english": "Ultra Large Scale Integration",
+        "meaning": "매우 많은 수의 트랜지스터를 하나의 칩에 집적하는 기술로, 현대 반도체 산업의 핵심 기술이다."
+    },
+
+    {
+        "word": "ALD (Atomic Layer Etching)",
+        "english": "Atomic Layer Etching",
+        "meaning": "원자층 단위로 정밀하게 물질을 제거하는 에칭 기술로, 고도로 제어된 에칭이 필요한 경우에 사용된다."
+    },
+    {
+        "word": "Bumping",
+        "english": "Bumping",
+        "meaning": "칩 표면에 솔더 범프를 형성하여 다른 칩이나 기판과의 연결을 용이하게 하는 공정으로, 플립 칩 패키징에 사용된다."
+    },
+    {
+        "word": "C4 (Controlled Collapse Chip Connection)",
+        "english": "Controlled Collapse Chip Connection",
+        "meaning": "솔더 범프를 이용한 칩 연결 기술로, 고밀도 패키징에 사용되며, 칩과 기판 간의 전기적 및 기계적 연결을 제공한다."
+    },
+    {
+        "word": "Cu Interconnect",
+        "english": "Cu Interconnect",
+        "meaning": "구리를 이용한 금속 배선 기술로, 알루미늄보다 전기 전도도가 높아 고속 신호 전송에 유리하다."
+    },
+    {
+        "word": "Dicing",
+        "english": "Dicing",
+        "meaning": "웨이퍼를 개별 칩으로 분리하는 공정으로, 다이아몬드 블레이드를 사용하여 웨이퍼를 절단한다."
+    },
+    {
+        "word": "Electrochemical Deposition (ECD)",
+        "english": "Electrochemical Deposition",
+        "meaning": "전기화학적 반응을 통해 금속 박막을 형성하는 증착 기술로, 주로 구리 배선 형성 시 사용된다."
+    },
+    {
+        "word": "Fan-Out Wafer-Level Packaging (FOWLP)",
+        "english": "Fan-Out Wafer-Level Packaging",
+        "meaning": "칩을 웨이퍼 수준에서 패키징하는 기술로, 칩보다 큰 패키지 크기를 제공하여 입출력 핀 수를 늘릴 수 있다."
+    },
+    {
+        "word": "Gate Last Process",
+        "english": "Gate Last Process",
+        "meaning": "트랜지스터의 게이트를 마지막에 형성하는 공정으로, 고성능 트랜지스터 제조에 유리하다."
+    },
+    {
+        "word": "High-k Dielectric",
+        "english": "High-k Dielectric",
+        "meaning": "높은 유전 상수를 가지는 절연 물질로, 게이트 산화막의 두께를 줄이면서 누설 전류를 감소시킨다."
+    },
+    {
+        "word": "Immersion Lithography",
+        "english": "Immersion Lithography",
+        "meaning": "액체를 이용해 노광 시 빛의 굴절률을 높여 해상도를 향상시키는 리소그래피 기술."
+    },
+    {
+        "word": "Laser Annealing",
+        "english": "Laser Annealing",
+        "meaning": "레이저를 이용해 웨이퍼를 순간적으로 가열하여 불순물을 활성화하는 공정."
+    },
+    {
+        "word": "Molecular Layer Deposition (MLD)",
+        "english": "Molecular Layer Deposition",
+        "meaning": "분자층 단위로 박막을 형성하는 증착 기술로, ALD의 확장된 형태로, 유기물 박막 형성 시 유용하다."
+    },
+    {
+        "word": "Multi-Patterning",
+        "english": "Multi-Patterning",
+        "meaning": "하나의 레이어를 여러 번의 포토리소그래피 공정으로 나누어 미세 패턴을 형성하는 기술."
+    },
+    {
+        "word": "Plasma Enhanced ALD (PEALD)",
+        "english": "Plasma Enhanced ALD",
+        "meaning": "플라즈마를 이용해 ALD 공정의 반응성을 높이는 기술로, 낮은 온도에서도 증착이 가능하다."
+    },
+    {
+        "word": "Quantum Dots",
+        "english": "Quantum Dots",
+        "meaning": "나노미터 크기의 반도체 결정으로, 광학적 및 전기적 특성이 뛰어나 다양한 응용 분야에 사용된다."
+    },
+    {
+        "word": "Scanning Electron Microscope (SEM)",
+        "english": "Scanning Electron Microscope",
+        "meaning": "전자 빔을 이용해 표면의 이미지를 얻는 장비로, 반도체 제조 과정에서 품질 검사에 사용된다."
+    },
+    {
+        "word": "Self-Aligned Double Patterning (SADP)",
+        "english": "Self-Aligned Double Patterning",
+        "meaning": "자가 정렬 기술을 이용한 다중 패터닝 공정으로, 높은 정밀도와 해상도를 제공한다."
+    },
+    {
+        "word": "Shallow Trench Isolation (STI)",
+        "english": "Shallow Trench Isolation",
+        "meaning": "얕은 트렌치를 이용해 소자 간의 절연을 제공하는 기술로, 고집적화에 유리하다."
+    },
+    {
+        "word": "Strained Silicon",
+        "english": "Strained Silicon",
+        "meaning": "실리콘에 인위적인 스트레스를 가하여 이동도를 향상시킨 기술로, 고성능 트랜지스터 제조에 사용된다."
+    },
+    {
+        "word": "Through-Silicon Via (TSV)",
+        "english": "Through-Silicon Via",
+        "meaning": "웨이퍼를 수직으로 관통하는 비아를 형성하여 3D 집적에 사용되는 기술."
+    },
+    {
+        "word": "Atomic Layer Cleaning (ALC)",
+        "english": "Atomic Layer Cleaning",
+        "meaning": "원자층 단위로 표면을 세정하는 기술로, 오염 물질을 정밀하게 제거하여 표면의 순도를 높인다."
+    },
+    {
+        "word": "Bond Pad",
+        "english": "Bond Pad",
+        "meaning": "칩 표면에 형성된 금속 패드로, 와이어 본딩이나 플립 칩 본딩을 통해 외부와 연결된다."
+    },
+    {
+        "word": "Chemical Mechanical Polishing (CMP) Slurry",
+        "english": "Chemical Mechanical Polishing Slurry",
+        "meaning": "CMP 공정에서 사용되는 연마제로, 연마 입자와 화학 물질의 혼합물로 구성되어 있다."
+    },
+    {
+        "word": "Deep Trench Capacitor",
+        "english": "Deep Trench Capacitor",
+        "meaning": "깊은 트렌치를 이용해 형성하는 커패시터로, 높은 용량을 필요로 하는 메모리 소자에 사용된다."
+    },
+    {
+        "word": "Dual Damascene",
+        "english": "Dual Damascene",
+        "meaning": "구리 배선을 형성하는 기술로, 비아와 트렌치를 동시에 형성하여 공정을 단순화하고 비용을 절감한다."
+    },
+    {
+        "word": "Electromigration",
+        "english": "Electromigration",
+        "meaning": "전류가 흐르는 금속 배선에서 원자 이동이 일어나는 현상으로, 신뢰성 문제를 일으킬 수 있다."
+    },
+    {
+        "word": "Epitaxial Silicon",
+        "english": "Epitaxial Silicon",
+        "meaning": "실리콘 웨이퍼 표면에 성장시킨 단결정 실리콘 박막으로, 전기적 특성을 개선하는 데 사용된다."
+    },
+    {
+        "word": "Ferroelectric RAM (FeRAM)",
+        "english": "Ferroelectric RAM",
+        "meaning": "강유전체 재료를 이용한 비휘발성 메모리 기술로, 빠른 읽기/쓰기 속도와 낮은 전력 소모가 특징이다."
+    },
+    {
+        "word": "Gate Dielectric",
+        "english": "Gate Dielectric",
+        "meaning": "트랜지스터의 게이트와 채널 사이에 위치하는 절연막으로, 누설 전류를 줄이고 신뢰성을 높이는 데 중요한 역할을 한다."
+    },
+    {
+        "word": "High Aspect Ratio Etching",
+        "english": "High Aspect Ratio Etching",
+        "meaning": "깊은 트렌치나 비아를 형성하는 에칭 기술로, 높은 종횡비를 가지며, 정밀한 제어가 필요하다."
+    },
+    {
+        "word": "Inductively Coupled Plasma (ICP) Etching",
+        "english": "Inductively Coupled Plasma Etching",
+        "meaning": "유도 결합 플라즈마를 이용한 에칭 기술로, 높은 에칭 속도와 방향성을 제공한다."
+    },
+    {
+        "word": "Laser Spike Annealing (LSA)",
+        "english": "Laser Spike Annealing",
+        "meaning": "레이저를 이용해 짧은 시간 동안 고온으로 웨이퍼를 가열하여 불순물을 활성화하는 공정."
+    },
+    {
+        "word": "Metal Gate",
+        "english": "Metal Gate",
+        "meaning": "고성능 트랜지스터에서 사용되는 금속 게이트로, 폴리실리콘 게이트보다 전기적 특성이 우수하다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL)",
+        "english": "Nanoimprint Lithography",
+        "meaning": "나노 임프린트 기술을 이용한 리소그래피 방법으로, 고해상도와 저비용을 특징으로 한다."
+    },
+    {
+        "word": "Phase Change Memory (PCM)",
+        "english": "Phase Change Memory",
+        "meaning": "상변화 재료를 이용한 비휘발성 메모리 기술로, 빠른 속도와 높은 밀도를 제공한다."
+    },
+    {
+        "word": "Quantum Well",
+        "english": "Quantum Well",
+        "meaning": "이차원 구조의 반도체 층으로, 전자의 양자 상태를 제어하여 광학적 및 전기적 특성을 향상시킨다."
+    },
+    {
+        "word": "Scanning Transmission Electron Microscope (STEM)",
+        "english": "Scanning Transmission Electron Microscope",
+        "meaning": "전자 빔을 이용해 나노미터 수준의 이미지를 얻는 장비로, 고해상도 이미징에 사용된다."
+    },
+    {
+        "word": "Self-Aligned Quadruple Patterning (SAQP)",
+        "english": "Self-Aligned Quadruple Patterning",
+        "meaning": "자가 정렬 기술을 이용한 4중 패터닝 공정으로, 매우 높은 해상도를 제공한다."
+    },
+    {
+        "word": "Silicon Nitride (SiN)",
+        "english": "Silicon Nitride",
+        "meaning": "실리콘과 질소로 구성된 화합물로, 보호막이나 패시베이션 층으로 사용된다."
+    },
+    {
+        "word": "Wafer-Level Packaging (WLP)",
+        "english": "Wafer-Level Packaging",
+        "meaning": "웨이퍼 수준에서 패키징을 완료하는 기술로, 비용 절감과 소형화에 유리하다."
+    },
+    {
+        "word": "Atomic Layer Deposition (ALD) of Metals",
+        "english": "Atomic Layer Deposition (ALD) of Metals",
+        "meaning": "금속 박막을 원자층 단위로 정밀하게 증착하는 기술로, 고품질의 금속 배선 및 전극 형성에 사용된다."
+    },
+    {
+        "word": "Backside Grinding (BSG)",
+        "english": "Backside Grinding (BSG)",
+        "meaning": "웨이퍼의 후면을 연마하여 두께를 줄이는 공정으로, 패키징 시 공간 절약과 열 방출 향상을 위해 사용된다."
+    },
+    {
+        "word": "Chemical Vapor Infiltration (CVI)",
+        "english": "Chemical Vapor Infiltration (CVI)",
+        "meaning": "기체 상태의 전구체를 이용해 다공성 물질 내부에 박막을 형성하는 증착 기술로, 복합 재료 제조에 사용된다."
+    },
+    {
+        "word": "Die Attach",
+        "english": "Die Attach",
+        "meaning": "칩을 패키지나 기판에 부착하는 공정으로, 접착제나 솔더를 사용하여 기계적 및 전기적 연결을 제공한다."
+    },
+    {
+        "word": "Electrochemical Mechanical Deposition (ECMD)",
+        "english": "Electrochemical Mechanical Deposition (ECMD)",
+        "meaning": "전기화학적 반응과 기계적 연마를 결합한 증착 기술로, 구리 배선의 평탄화 및 충전에 사용된다."
+    },
+    {
+        "word": "Ferroelectric Field-Effect Transistor (FeFET)",
+        "english": "Ferroelectric Field-Effect Transistor (FeFET)",
+        "meaning": "강유전체 재료를 이용한 트랜지스터로, 비휘발성 메모리 소자로 사용된다."
+    },
+    {
+        "word": "Gate Last Process (Replacement Gate)",
+        "english": "Gate Last Process (Replacement Gate)",
+        "meaning": "트랜지스터의 게이트를 마지막에 형성하는 공정으로, 고성능 및 저전력 소자 제조에 유리하다."
+    },
+    {
+        "word": "High-k Metal Gate (HKMG)",
+        "english": "High-k Metal Gate (HKMG)",
+        "meaning": "높은 유전 상수를 가지는 금속 게이트 기술로, 누설 전류를 줄이고 소자 성능을 향상시킨다."
+    },
+    {
+        "word": "Ion Beam Etching (IBE)",
+        "english": "Ion Beam Etching (IBE)",
+        "meaning": "이온 빔을 이용한 에칭 기술로, 높은 정밀도와 방향성을 제공하며, 다양한 물질에 적용 가능하다."
+    },
+    {
+        "word": "Laser Thermal Processing (LTP)",
+        "english": "Laser Thermal Processing (LTP)",
+        "meaning": "레이저를 이용해 웨이퍼를 국부적으로 가열하여 열처리를 하는 공정으로, 불순물 활성화 등에 사용된다."
+    },
+    {
+        "word": "Metal-Organic Chemical Vapor Deposition (MOCVD)",
+        "english": "Metal-Organic Chemical Vapor Deposition (MOCVD)",
+        "meaning": "유기 금속 화합물을 이용한 화학 기상 증착 기술로, III-V족 화합물 반도체 제조에 사용된다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL) for 3D Structures",
+        "english": "Nanoimprint Lithography (NIL) for 3D Structures",
+        "meaning": "3D 구조 형성을 위한 나노 임프린트 리소그래피 기술로, 복잡한 형상의 소자 제조에 사용된다."
+    },
+    {
+        "word": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+        "english": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+        "meaning": "플라즈마를 이용해 ALD 공정의 반응성을 높이는 기술로, 낮은 온도에서도 증착이 가능하다."
+    },
+    {
+        "word": "Quantum Dot Light-Emitting Diode (QLED)",
+        "english": "Quantum Dot Light-Emitting Diode (QLED)",
+        "meaning": "양자점을 이용한 발광 다이오드로, 높은 색 재현율과 에너지 효율을 특징으로 한다."
+    },
+    {
+        "word": "Scanning Tunneling Microscope (STM)",
+        "english": "Scanning Tunneling Microscope (STM)",
+        "meaning": "터널링 전류를 이용해 표면의 원자 구조를 관찰하는 장비로, 나노 기술 연구에 사용된다."
+    },
+    {
+        "word": "Self-Aligned Double Patterning (SADP) for Contacts",
+        "english": "Self-Aligned Double Patterning (SADP) for Contacts",
+        "meaning": "자가 정렬 기술을 이용한 컨택트 패터닝 공정으로, 고밀도 연결에 사용된다."
+    },
+    {
+        "word": "Silicon Carbide (SiC)",
+        "english": "Silicon Carbide (SiC)",
+        "meaning": "실리콘과 탄소의 화합물로, 고온 및 고전압 응용 분야에 사용되는 반도체 재료."
+    },
+    {
+        "word": "Through-Silicon Via (TSV) for 3D Integration",
+        "english": "Through-Silicon Via (TSV) for 3D Integration",
+        "meaning": "3D 집적을 위한 수직 비아 형성 기술로, 칩 간의 고밀도 연결을 제공한다."
+    },
+    {
+        "word": "Ultra-High Vacuum Chemical Vapor Deposition (UHVCVD)",
+        "english": "Ultra-High Vacuum Chemical Vapor Deposition (UHVCVD)",
+        "meaning": "초고진공 상태에서 화학 기상 증착을 하는 기술로, 고품질 박막 형성에 사용된다."
+    },
+    {
+        "word": "Wafer Bonding for Heterogeneous Integration",
+        "english": "Wafer Bonding for Heterogeneous Integration",
+        "meaning": "이종 집적을 위한 웨이퍼 접합 기술로, 다양한 재료와 소자를 하나의 패키지에 통합한다."
+    },
+    {
+        "word": "Atomic Layer Etching (ALE) of Dielectrics",
+        "english": "Atomic Layer Etching (ALE) of Dielectrics",
+        "meaning": "유전체 물질을 원자층 단위로 정밀하게 제거하는 에칭 기술로, 고도로 제어된 에칭이 필요한 경우에 사용된다."
+    },
+    {
+        "word": "Barrier Layer",
+        "english": "Barrier Layer",
+        "meaning": "확산을 방지하거나 부식을 막기 위해 다른 물질 층 사이에 삽입되는 얇은 막으로, 주로 질화티타늄(TiN)이나 탄탈륨 질화물(TaN)이 사용된다."
+    },
+    {
+        "word": "Chemical Mechanical Planarization (CMP) for Shallow Trench Isolation (STI)",
+        "english": "Chemical Mechanical Planarization (CMP) for Shallow Trench Isolation (STI)",
+        "meaning": "STI 공정을 위한 CMP 기술로, 트렌치 내부의 산화막을 평탄화하여 소자 간 절연을 제공한다."
+    },
+    {
+        "word": "Die Separation",
+        "english": "Die Separation",
+        "meaning": "웨이퍼에서 개별 칩을 분리하는 공정으로, 다이아몬드 블레이드나 레이저를 사용하여 절단한다."
+    },
+    {
+        "word": "Electrochemical Deposition (ECD) of Copper",
+        "english": "Electrochemical Deposition (ECD) of Copper",
+        "meaning": "전기화학적 반응을 통해 구리 배선을 형성하는 증착 기술로, 고속 신호 전송에 유리하다."
+    },
+    {
+        "word": "Ferroelectric Capacitor",
+        "english": "Ferroelectric Capacitor",
+        "meaning": "강유전체 재료를 이용한 커패시터로, 비휘발성 메모리 소자 및 에너지 저장 장치에 사용된다."
+    },
+    {
+        "word": "Gate Stack Engineering",
+        "english": "Gate Stack Engineering",
+        "meaning": "트랜지스터의 게이트 스택을 최적화하여 소자 성능을 향상시키는 기술로, 유전체와 금속의 조합을 조정한다."
+    },
+    {
+        "word": "High Mobility Channel",
+        "english": "High Mobility Channel",
+        "meaning": "높은 전자 이동도를 가지는 채널 물질을 사용하여 트랜지스터 성능을 향상시키는 기술로, 실리콘 게르마늄(SiGe)이나 III-V족 화합물 등이 사용된다."
+    },
+    {
+        "word": "Ion Implantation for Super Steep Retrograde Well (SSRW)",
+        "english": "Ion Implantation for Super Steep Retrograde Well (SSRW)",
+        "meaning": "SSRW 구조를 형성하기 위한 이온 주입 기술로, 소자의 전기적 특성을 최적화한다."
+    },
+    {
+        "word": "Laser Annealing for Dopant Activation",
+        "english": "Laser Annealing for Dopant Activation",
+        "meaning": "레이저를 이용해 불순물을 활성화하는 열처리 기술로, 짧은 시간에 고온을 가하여 확산을 최소화한다."
+    },
+    {
+        "word": "Metal-Organic Chemical Vapor Deposition (MOCVD) of III-V Semiconductors",
+        "english": "Metal-Organic Chemical Vapor Deposition (MOCVD) of III-V Semiconductors",
+        "meaning": "III-V족 화합물 반도체를 제조하기 위한 MOCVD 기술로, 고품질의 에피택시 층 형성에 사용된다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL) for Patterning",
+        "english": "Nanoimprint Lithography (NIL) for Patterning",
+        "meaning": "패턴 형성을 위한 나노 임프린트 리소그래피 기술로, 고해상도와 저비용을 특징으로 한다."
+    },
+    {
+        "word": "Plasma-Enhanced Chemical Vapor Deposition (PECVD) of Silicon Nitride",
+        "english": "Plasma-Enhanced Chemical Vapor Deposition (PECVD) of Silicon Nitride",
+        "meaning": "실리콘 질화막을 형성하기 위한 PECVD 기술로, 낮은 온도에서도 증착이 가능하다."
+    },
+    {
+        "word": "Quantum Well Infrared Photodetector (QWIP)",
+        "english": "Quantum Well Infrared Photodetector (QWIP)",
+        "meaning": "양자 우물 구조를 이용한 적외선 감지기로, 고감도와 고속 응답이 특징이다."
+    },
+    {
+        "word": "Scanning Electron Microscope (SEM) for Defect Inspection",
+        "english": "Scanning Electron Microscope (SEM) for Defect Inspection",
+        "meaning": "결함 검사를 위한 주사 전자 현미경 기술로, 고해상도 이미징을 통해 소자의 결함을 분석한다."
+    },
+    {
+        "word": "Self-Aligned Gate",
+        "english": "Self-Aligned Gate",
+        "meaning": "자가 정렬 기술을 이용한 게이트 형성 공정으로, 높은 정밀도와 정렬 정확도를 제공한다."
+    },
+    {
+        "word": "Silicon-On-Insulator (SOI) for Power Devices",
+        "english": "Silicon-On-Insulator (SOI) for Power Devices",
+        "meaning": "전력 소자 제조를 위한 SOI 기술로, 절연체 위에 실리콘 층을 형성하여 전기적 절연을 제공한다."
+    },
+    {
+        "word": "Through-Silicon Via (TSV) for RF Applications",
+        "english": "Through-Silicon Via (TSV) for RF Applications",
+        "meaning": "RF 응용 분야를 위한 TSV 기술로, 고주파 신호 전송을 위한 저저항 연결을 제공한다."
+    },
+    {
+        "word": "Ultra-High Vacuum Physical Vapor Deposition (UHV-PVD)",
+        "english": "Ultra-High Vacuum Physical Vapor Deposition (UHV-PVD)",
+        "meaning": "초고진공 상태에서 물리적 기상 증착을 하는 기술로, 고품질 박막 형성에 사용된다."
+    },
+    {
+        "word": "Wafer-Level Chip-Scale Packaging (WLCSP)",
+        "english": "Wafer-Level Chip-Scale Packaging (WLCSP)",
+        "meaning": "웨이퍼 수준에서 칩 스케일 패키징을 완료하는 기술로, 소형화 및 비용 절감에 유리하다."
+    },
+    {
+        "word": "Atomic Layer Processing (ALP)",
+        "english": "Atomic Layer Processing",
+        "meaning": "원자층 단위로 물질을 증착하거나 제거하는 공정의 총칭으로, ALD와 ALE를 포함한다."
+    },
+    {
+        "word": "Backside Illuminated (BSI) Sensor",
+        "english": "Backside Illuminated Sensor",
+        "meaning": "광학 센서에서 빛이 웨이퍼 후면을 통해 입사하도록 설계된 구조로, 감도와 이미지 품질을 향상시킨다."
+    },
+    {
+        "word": "Chemical Mechanical Polishing (CMP) for Copper",
+        "english": "Chemical Mechanical Polishing for Copper",
+        "meaning": "구리 배선의 평탄화를 위한 CMP 기술로, 다층 배선 구조에서 필수적이다."
+    },
+    {
+        "word": "Die-to-Die Bonding",
+        "english": "Die-to-Die Bonding",
+        "meaning": "개별 칩 간의 직접적인 연결을 위한 본딩 기술로, 3D 집적에 사용된다."
+    },
+    {
+        "word": "Electrochemical Deposition (ECD) for Through-Silicon Vias (TSVs)",
+        "english": "Electrochemical Deposition for Through-Silicon Vias",
+        "meaning": "TSV 형성을 위한 전기화학적 증착 기술로, 구리 등의 금속을 채워넣는 데 사용된다."
+    },
+    {
+        "word": "Ferroelectric Random Access Memory (FeRAM)",
+        "english": "Ferroelectric Random Access Memory",
+        "meaning": "강유전체 재료를 이용한 비휘발성 메모리 기술로, 빠른 읽기/쓰기 속도와 낮은 전력 소모가 특징이다."
+    },
+    {
+        "word": "Gate Dielectric Scaling",
+        "english": "Gate Dielectric Scaling",
+        "meaning": "트랜지스터의 게이트 유전체 두께를 줄여 소자 성능을 향상시키는 기술로, 누설 전류를 최소화하는 것이 중요하다."
+    },
+    {
+        "word": "High Aspect Ratio Etching (HARE)",
+        "english": "High Aspect Ratio Etching",
+        "meaning": "높은 종횡비를 가지는 구조를 형성하기 위한 에칭 기술로, 정밀한 제어가 필요하다."
+    },
+    {
+        "word": "Ion Beam Deposition (IBD)",
+        "english": "Ion Beam Deposition",
+        "meaning": "이온 빔을 이용한 증착 기술로, 고도로 제어된 박막 형성에 사용된다."
+    },
+    {
+        "word": "Laser Doping",
+        "english": "Laser Doping",
+        "meaning": "레이저를 이용해 선택적으로 불순물을 도핑하는 기술로, 국부적인 도핑이 가능하다."
+    },
+    {
+        "word": "Metal-Organic Vapor Phase Epitaxy (MOVPE)",
+        "english": "Metal-Organic Vapor Phase Epitaxy",
+        "meaning": "유기 금속 화합물을 이용한 기상 에피택시 기술로, III-V족 화합물 반도체 제조에 사용된다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL) for Flexible Electronics",
+        "english": "Nanoimprint Lithography for Flexible Electronics",
+        "meaning": "유연 전자 소자 제조를 위한 나노 임프린트 리소그래피 기술로, 다양한 기판에 적용 가능하다."
+    },
+    {
+        "word": "Plasma-Enhanced Atomic Layer Deposition (PEALD) for High-k Dielectrics",
+        "english": "Plasma-Enhanced Atomic Layer Deposition for High-k Dielectrics",
+        "meaning": "고유전체 박막 형성을 위한 PEALD 기술로, 낮은 온도에서도 증착이 가능하다."
+    },
+    {
+        "word": "Quantum Dot Infrared Photodetector (QDIP)",
+        "english": "Quantum Dot Infrared Photodetector",
+        "meaning": "양자점을 이용한 적외선 감지기로, 높은 감도와 다중 대역 감지가 가능하다."
+    },
+    {
+        "word": "Scanning Transmission Electron Microscope (STEM) for Atomic Imaging",
+        "english": "Scanning Transmission Electron Microscope for Atomic Imaging",
+        "meaning": "원자 수준의 이미징을 위한 주사 투과 전자 현미경 기술로, 고해상도 구조 분석에 사용된다."
+    },
+    {
+        "word": "Self-Aligned Contact (SAC)",
+        "english": "Self-Aligned Contact",
+        "meaning": "자가 정렬 기술을 이용한 컨택트 형성 공정으로, 정렬 오류를 최소화한다."
+    },
+    {
+        "word": "Silicon-Germanium (SiGe) Channel",
+        "english": "Silicon-Germanium Channel",
+        "meaning": "실리콘 게르마늄 채널을 이용한 트랜지스터로, 이동도와 성능을 향상시킨다."
+    },
+    {
+        "word": "Through-Silicon Via (TSV) for Memory Stacking",
+        "english": "Through-Silicon Via for Memory Stacking",
+        "meaning": "메모리 적층을 위한 TSV 기술로, 3D 메모리 구조에 사용된다."
+    },
+    {
+        "word": "Ultra-High Vacuum Sputtering (UHVS)",
+        "english": "Ultra-High Vacuum Sputtering",
+        "meaning": "초고진공 상태에서 스퍼터링을 하는 증착 기술로, 고품질 박막 형성에 사용된다."
+    },
+    {
+        "word": "Wafer-Level Packaging (WLP) for RF Devices",
+        "english": "Wafer-Level Packaging for RF Devices",
+        "meaning": "RF 소자 패키징을 위한 웨이퍼 수준 패키징 기술로, 고주파 성능을 최적화한다."
+    },
+    {
+        "word": "Atomic Layer Etching (ALE) for 3D NAND",
+        "english": "Atomic Layer Etching for 3D NAND",
+        "meaning": "3D NAND 구조를 형성하기 위한 원자층 에칭 기술로, 높은 종횡비의 구조를 정밀하게 제어한다."
+    },
+    {
+        "word": "Backside Metallization",
+        "english": "Backside Metallization",
+        "meaning": "웨이퍼 후면에 금속 배선을 형성하는 공정으로, 열 방출 및 전기적 연결을 개선한다."
+    },
+    {
+        "word": "Chemical Mechanical Polishing (CMP) for Inter-Layer Dielectrics (ILD)",
+        "english": "Chemical Mechanical Polishing for Inter-Layer Dielectrics",
+        "meaning": "층간 유전체 평탄화를 위한 CMP 기술로, 다층 배선 구조에서 필수적이다."
+    },
+    {
+        "word": "Die Stacking",
+        "english": "Die Stacking",
+        "meaning": "여러 개의 칩을 수직으로 적층하여 하나의 패키지로 만드는 기술로, 3D 집적에 사용된다."
+    },
+    {
+        "word": "Electrochemical Mechanical Deposition (ECMD) for Microbumps",
+        "english": "Electrochemical Mechanical Deposition for Microbumps",
+        "meaning": "마이크로 범프 형성을 위한 전기화학적 기계적 증착 기술로, 고밀도 연결에 사용된다."
+    },
+    {
+        "word": "Ferroelectric Tunnel Junction (FTJ)",
+        "english": "Ferroelectric Tunnel Junction",
+        "meaning": "강유전체 재료를 이용한 터널 접합 구조로, 비휘발성 메모리 및 로직 소자에 사용된다."
+    },
+    {
+        "word": "Gate-All-Around (GAA) FET",
+        "english": "Gate-All-Around FET",
+        "meaning": "채널을 게이트가 완전히 감싸는 구조의 트랜지스터로, 3D 구조를 통해 소자 성능을 향상시킨다."
+    },
+    {
+        "word": "High-k Dielectric Integration",
+        "english": "High-k Dielectric Integration",
+        "meaning": "고유전체 물질을 트랜지스터의 게이트 유전체로 통합하는 기술로, 누설 전류를 줄이고 성능을 향상시킨다."
+    },
+    {
+        "word": "Ion Beam Milling",
+        "english": "Ion Beam Milling",
+        "meaning": "이온 빔을 이용한 물질 제거 기술로, 정밀한 에칭 및 표면 처리에 사용된다."
+    },
+    {
+        "word": "Laser Thermal Annealing (LTA)",
+        "english": "Laser Thermal Annealing",
+        "meaning": "레이저를 이용한 열처리 기술로, 국부적인 영역을 빠르게 가열하여 열 영향을 최소화한다."
+    },
+    {
+        "word": "Metal-Organic Chemical Vapor Deposition (MOCVD) for LEDs",
+        "english": "Metal-Organic Chemical Vapor Deposition for LEDs",
+        "meaning": "LED 제조를 위한 MOCVD 기술로, III-V족 화합물 반도체를 증착하여 발광층을 형성한다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL) for Photonic Crystals",
+        "english": "Nanoimprint Lithography for Photonic Crystals",
+        "meaning": "광자 결정을 제조하기 위한 나노 임프린트 리소그래피 기술로, 광학 소자 제작에 사용된다."
+    },
+    {
+        "word": "Plasma-Enhanced Chemical Vapor Deposition (PECVD) for Antireflective Coatings",
+        "english": "Plasma-Enhanced Chemical Vapor Deposition for Antireflective Coatings",
+        "meaning": "반사 방지 코팅 형성을 위한 PECVD 기술로, 태양전지 및 디스플레이 제조에 사용된다."
+    },
+    {
+        "word": "Quantum Dot Light-Emitting Diode (QLED) for Displays",
+        "english": "Quantum Dot Light-Emitting Diode for Displays",
+        "meaning": "양자점 발광 다이오드를 이용한 디스플레이 기술로, 높은 색 재현율과 에너지 효율을 제공한다."
+    },
+    {
+        "word": "Scanning Electron Microscope (SEM) for Surface Analysis",
+        "english": "Scanning Electron Microscope for Surface Analysis",
+        "meaning": "표면 분석을 위한 주사 전자 현미경 기술로, 고해상도 이미징을 통해 표면 특성을 분석한다."
+    },
+    {
+        "word": "Self-Aligned Double Patterning (SADP) for Logic Devices",
+        "english": "Self-Aligned Double Patterning for Logic Devices",
+        "meaning": "로직 소자 제조를 위한 자가 정렬 이중 패터닝 기술로, 미세 패턴 형성에 사용된다."
+    },
+    {
+        "word": "Silicon Carbide (SiC) Substrates for Power Electronics",
+        "english": "Silicon Carbide Substrates for Power Electronics",
+        "meaning": "파워 일렉트로닉스용 실리콘 카바이드 기판으로, 고온 및 고전압 환경에서 우수한 성능을 발휘한다."
+    },
+    {
+        "word": "Through-Silicon Via (TSV) for Sensors",
+        "english": "Through-Silicon Via for Sensors",
+        "meaning": "센서 제조를 위한 TSV 기술로, 3D 집적을 통해 소형화 및 성능 향상을 이룬다."
+    },
+    {
+        "word": "Ultra-High Vacuum Evaporation (UHVE)",
+        "english": "Ultra-High Vacuum Evaporation",
+        "meaning": "초고진공 상태에서 증발을 이용한 증착 기술로, 고품질 박막 형성에 사용된다."
+    },
+    {
+        "word": "Wafer-Level Packaging (WLP) for MEMS Devices",
+        "english": "Wafer-Level Packaging for MEMS Devices",
+        "meaning": "MEMS 소자 패키징을 위한 웨이퍼 수준 패키징 기술로, 소형화 및 비용 절감에 유리하다."
+    },
+    {
+        "word": "Atomic Layer Deposition (ALD) for Ferroelectric Materials",
+        "english": "Atomic Layer Deposition (ALD) for Ferroelectric Materials",
+        "meaning": "강유전체 물질을 원자층 단위로 증착하는 기술로, 비휘발성 메모리 및 로직 소자 제조에 사용된다."
+    },
+    {
+        "word": "Backside Grinding and Polishing",
+        "english": "Backside Grinding and Polishing",
+        "meaning": "웨이퍼 후면을 연마하고 평탄화하는 공정으로, 패키징 시 공간 절약과 열 방출 향상을 위해 사용된다."
+    },
+    {
+        "word": "Chemical Mechanical Polishing (CMP) for Through-Silicon Vias (TSVs)",
+        "english": "Chemical Mechanical Polishing (CMP) for Through-Silicon Vias (TSVs)",
+        "meaning": "TSV 내부의 구리 배선을 평탄화하기 위한 CMP 기술로, 고품질의 전기적 연결을 제공한다."
+    },
+    {
+        "word": "Die-to-Wafer Bonding",
+        "english": "Die-to-Wafer Bonding",
+        "meaning": "개별 칩을 웨이퍼에 직접 본딩하는 기술로, 3D 집적 및 하이브리드 집적에 사용된다."
+    },
+    {
+        "word": "Electrochemical Deposition (ECD) for Redistribution Layers (RDL)",
+        "english": "Electrochemical Deposition (ECD) for Redistribution Layers (RDL)",
+        "meaning": "재분배 층 형성을 위한 전기화학적 증착 기술로, 칩과 패키지 간의 연결을 제공한다."
+    },
+    {
+        "word": "Ferroelectric Field-Effect Transistor (FeFET) for Memory Applications",
+        "english": "Ferroelectric Field-Effect Transistor (FeFET) for Memory Applications",
+        "meaning": "메모리 응용을 위한 강유전체 트랜지스터로, 비휘발성 메모리 소자로 사용된다."
+    },
+    {
+        "word": "Gate Dielectric Engineering",
+        "english": "Gate Dielectric Engineering",
+        "meaning": "트랜지스터의 게이트 유전체를 최적화하여 누설 전류를 줄이고 성능을 향상시키는 기술."
+    },
+    {
+        "word": "High Mobility Materials for Channels",
+        "english": "High Mobility Materials for Channels",
+        "meaning": "채널 물질로 높은 이동도를 가지는 재료를 사용하여 트랜지스터 성능을 향상시키는 기술로, 실리콘 게르마늄(SiGe)이나 III-V족 화합물 등이 사용된다."
+    },
+    {
+        "word": "Ion Beam Deposition (IBD) for Thin Films",
+        "english": "Ion Beam Deposition (IBD) for Thin Films",
+        "meaning": "박막 형성을 위한 이온 빔 증착 기술로, 고도로 제어된 증착이 가능하다."
+    },
+    {
+        "word": "Laser-Assisted Bonding",
+        "english": "Laser-Assisted Bonding",
+        "meaning": "레이저를 이용한 본딩 기술로, 빠른 열 전달과 정밀한 제어가 가능하다."
+    },
+    {
+        "word": "Metal-Organic Chemical Vapor Deposition (MOCVD) for Photovoltaics",
+        "english": "Metal-Organic Chemical Vapor Deposition (MOCVD) for Photovoltaics",
+        "meaning": "태양전지 제조를 위한 MOCVD 기술로, 고효율 태양전지 생산에 사용된다."
+    },
+    {
+        "word": "Nanoimprint Lithography (NIL) for Nanophotonics",
+        "english": "Nanoimprint Lithography (NIL) for Nanophotonics",
+        "meaning": "나노포토닉스 소자 제조를 위한 나노 임프린트 리소그래피 기술로, 광학 소자 제작에 사용된다."
+    },
+    {
+        "word": "Plasma-Enhanced Chemical Vapor Deposition (PECVD) for Passivation Layers",
+        "english": "Plasma-Enhanced Chemical Vapor Deposition (PECVD) for Passivation Layers",
+        "meaning": "패시베이션 층 형성을 위한 PECVD 기술로, 소자의 안정성과 신뢰성을 높인다."
+    },
+    {
+        "word": "Quantum Dot Photodetector (QDP)",
+        "english": "Quantum Dot Photodetector (QDP)",
+        "meaning": "양자점을 이용한 광검출기로, 높은 감도와 광 응답 특성을 가진다."
+    },
+    {
+        "word": "Scanning Transmission Electron Microscope (STEM) for Elemental Analysis",
+        "english": "Scanning Transmission Electron Microscope (STEM) for Elemental Analysis",
+        "meaning": "원소 분석을 위한 주사 투과 전자 현미경 기술로, 나노미터 수준의 공간 분해능을 제공한다."
+    },
+    {
+        "word": "Self-Aligned Gate Contact (SAGC)",
+        "english": "Self-Aligned Gate Contact (SAGC)",
+        "meaning": "자가 정렬 기술을 이용한 게이트 컨택트 형성 공정으로, 정렬 오류를 최소화한다."
+    },
+    {
+        "word": "Silicon-On-Insulator (SOI) for RF Devices",
+        "english": "Silicon-On-Insulator (SOI) for RF Devices",
+        "meaning": "RF 소자 제조를 위한 SOI 기술로, 고주파 성능을 최적화한다."
+    },
+    {
+        "word": "Through-Silicon Via (TSV) for Power Distribution",
+        "english": "Through-Silicon Via (TSV) for Power Distribution",
+        "meaning": "전력 분배를 위한 TSV 기술로, 3D 집적 구조에서 효과적인 전력 전달을 제공한다."
+    },
+    {
+        "word": "Ultra-High Vacuum Molecular Beam Epitaxy (UHV-MBE)",
+        "english": "Ultra-High Vacuum Molecular Beam Epitaxy (UHV-MBE)",
+        "meaning": "초고진공 상태에서 분자선 에피택시를 이용한 증착 기술로, 고품질의 박막 형성에 사용된다."
+    },
+    {
+        "word": "Wafer-Level Chip-Scale Packaging (WLCSP) for Wearables",
+        "english": "Wafer-Level Chip-Scale Packaging (WLCSP) for Wearables",
+        "meaning": "웨어러블 기기 패키징을 위한 웨이퍼 수준 칩 스케일 패키징 기술로, 소형화 및 경량화가 가능하다."
+    }
+    
+]
